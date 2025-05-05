@@ -67,6 +67,7 @@ h2 {
 
 .sluzby-list {
   list-style: none;
+  align-items: center;
   padding-left: 0;
 }
 
